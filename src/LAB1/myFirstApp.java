@@ -2,7 +2,7 @@ package LAB1;
 
 import java.util.Scanner;
 
-public class myFirstApp {
+public class git branch -m "lab 1" lab1myFirstApp {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter your name:");
